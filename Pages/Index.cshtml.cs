@@ -1,19 +1,20 @@
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-
-namespace WebAppCoreProduct.Pages;
-
-public class IndexModel : PageModel
-{
-    private readonly ILogger<IndexModel> _logger;
-
-    public IndexModel(ILogger<IndexModel> logger)
+    public class IndexModel : PageModel
     {
-        _logger = logger;
+        public string? Name { get; set; }
+        public decimal? Price { get; set; }
+        public bool IsCorrect { get; set; } = true;
+
+        public void OnGet(string? name, decimal? price)
+        {
+            if (string.IsNullOrEmpty(name) || price == null || price < 0)
+            {
+                IsCorrect = false;
+                return;
+            }
+
+            Name = name;
+            Price = price;
+        }
     }
 
-    public void OnGet()
-    {
-
-    }
-}

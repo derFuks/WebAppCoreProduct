@@ -95,3 +95,4 @@
 /Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/WebAppCoreProduct.pdb
 /Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/WebAppCoreProduct.genruntimeconfig.cache
 /Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/ref/WebAppCoreProduct.dll
+/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/WebAppCoreProduct.sourcelink.json
