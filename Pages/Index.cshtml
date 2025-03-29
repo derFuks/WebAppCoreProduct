@@ -1,13 +1,13 @@
 ﻿@page
 @model WebAppCoreProduct.Pages.IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Главная страница";
 }
 
 @if (Model.IsCorrect)
 {
-    <p>Name: <b>@Model.Name</b></p>
-    <p>Price: <b>@Model.Price</b></p>
+    <p>Name: <b>@Model.Product.Name</b></p>
+    <p>Price: <b>@Model.Product.Price</b></p>
 }
 else
 {

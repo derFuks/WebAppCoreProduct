@@ -1,20 +1,22 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
-    public class IndexModel : PageModel
+using WebAppCoreProduct.Models;
+namespace WebAppCoreProduct.Pages
     {
-        public string? Name { get; set; }
-        public decimal? Price { get; set; }
-        public bool IsCorrect { get; set; } = true;
-
-        public void OnGet(string? name, decimal? price)
-        {
-            if (string.IsNullOrEmpty(name) || price == null || price < 0)
+        public class IndexModel : PageModel
             {
-                IsCorrect = false;
-                return;
+                public bool IsCorrect { get; set; } = true;
+                public Product Product { get; set; } = new Product();
+                public void OnGet(string? name, decimal? price)
+                {
+                    if (string.IsNullOrEmpty(name) || price == null || price < 0)
+                    {
+                        IsCorrect = false;
+                        return;
+                    }
+
+                    Product.Name = name;
+                    Product.Price = price;
+                }
             }
 
-            Name = name;
-            Price = price;
-        }
     }
-
