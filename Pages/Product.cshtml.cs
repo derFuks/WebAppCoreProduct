@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using WebAppCoreProduct.Models;
+using WebAppCoreProduct.Services;
+
 
 namespace WebAppCoreProduct.Pages
 {
@@ -30,37 +32,42 @@ namespace WebAppCoreProduct.Pages
         }
 
         public void OnPostDiscount(string name, decimal? price, double discount)
-    {
-        Product = new Product();
-
-        if (string.IsNullOrEmpty(name) || price == null || price < 0 || discount < 0)
         {
-            MessageResult = "Данные некорректны. Повторите ввод.";
-            return;
+            Product = new Product();
+
+            if (string.IsNullOrEmpty(name) || price == null || price < 0 || discount < 0)
+            {
+                MessageResult = "Данные некорректны. Повторите ввод.";
+                return;
+            }
+
+            var result = _discountService.Calculate(price.Value, discount);
+            Product.Name = name;
+            Product.Price = price;
+
+            MessageResult = $"Для товара {name} с ценой {price} и скидкой {discount}% получится скидка {result}";
         }
+        public void OnPostTotal(string name, decimal? price, int? quantity)
+        {
+            Product = new Product();
 
-        var result = price * (decimal)(discount / 100);
-        Product.Name = name;
-        Product.Price = price;
+            if (string.IsNullOrEmpty(name) || price == null || price < 0 || quantity == null || quantity < 1)
+            {
+                MessageResult = "Введите корректные данные (имя, цена и количество).";
+                return;
+            }
 
-        MessageResult = $"Для товара {name} с ценой {price} и скидкой {discount}% получится скидка {result}";
-    }
-    public void OnPostTotal(string name, decimal? price, int? quantity)
-{
-    Product = new Product();
+            Product.Name = name;
+            Product.Price = price;
 
-    if (string.IsNullOrEmpty(name) || price == null || price < 0 || quantity == null || quantity < 1)
-    {
-        MessageResult = "Введите корректные данные (имя, цена и количество).";
-        return;
-    }
-
-    Product.Name = name;
-    Product.Price = price;
-
-    var total = price * quantity;
-    MessageResult = $"Вы выбрали {quantity} шт. товара {name} по цене {price}. Итоговая сумма: {total}";
-}
+            var total = price * quantity;
+            MessageResult = $"Вы выбрали {quantity} шт. товара {name} по цене {price}. Итоговая сумма: {total}";
+        }
+        private readonly IDiscountService _discountService;
+        public ProductModel(IDiscountService discountService)
+        {
+            _discountService = discountService;
+        }
 
     }
 }
