@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fImcRLxlPh5ES1sjgFrSJxVHEdBcInc7FWfmQXOwToE=",
+  "Hash": "RnWyP+5n6f+0VW3l+6FeLkoyVEb9PecEEuvwkFPr6Zo=",
   "Source": "WebAppCoreProduct",
   "BasePath": "_content/WebAppCoreProduct",
   "Mode": "Default",
@@ -437,12 +437,12 @@
       "OriginalItemSpec": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/d7e6eepgom-61n19gt1b8.gz",
+      "Identity": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/d7e6eepgom-5jdtno90ch.gz",
       "SourceId": "WebAppCoreProduct",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/WebAppCoreProduct",
-      "RelativePath": "favicon#[.{fingerprint=61n19gt1b8}]?.ico.gz",
+      "RelativePath": "favicon#[.{fingerprint=5jdtno90ch}]?.ico.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -451,8 +451,8 @@
       "RelatedAsset": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/wwwroot/favicon.ico",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jefwejb9ld",
-      "Integrity": "+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=",
+      "Fingerprint": "rcfi8z9fyb",
+      "Integrity": "O+JpX834UERp4pi+hH5yNykhjGkwvt0isFOsGZTSyWk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/wwwroot/favicon.ico"
@@ -603,6 +603,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Identity": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/hkmawv5jsk-90ekta8zov.gz",
+      "SourceId": "WebAppCoreProduct",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/WebAppCoreProduct",
+      "RelativePath": "favicon#[.{fingerprint=90ekta8zov}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/wwwroot/favicon.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gu1n8ft9ri",
+      "Integrity": "6OK6spOX6fWCKvkH39CvHFJ5cQDyqOImaTbGJ8FGGjE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/wwwroot/favicon.svg"
     },
     {
       "Identity": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/hltizh1d66-4v8eqarkd7.gz",
@@ -1438,11 +1459,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "Fingerprint": "5jdtno90ch",
+      "Integrity": "wVC5aL0zN/wMlqZLxeRrJJnMOWRO/sRXz+Roonxhdjg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/wwwroot/favicon.svg",
+      "SourceId": "WebAppCoreProduct",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/wwwroot/",
+      "BasePath": "_content/WebAppCoreProduct",
+      "RelativePath": "favicon#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "90ekta8zov",
+      "Integrity": "F5cQiNdpmY/u1dUNJvf6F0mM/Il5SajQcHkqyfwvBog=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.svg"
     },
     {
       "Identity": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/wwwroot/js/site.js",
@@ -3026,13 +3068,13 @@
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/d7e6eepgom-61n19gt1b8.gz",
+      "Route": "favicon.5jdtno90ch.ico",
+      "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/d7e6eepgom-5jdtno90ch.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000405022276"
+          "Quality": "0.000345423143"
         }
       ],
       "ResponseHeaders": [
@@ -3042,15 +3084,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "2894"
         },
         {
           "Name": "ETag",
-          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
+          "Value": "\"O+JpX834UERp4pi+hH5yNykhjGkwvt0isFOsGZTSyWk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 09:32:49 GMT"
+          "Value": "Sun, 30 Mar 2025 06:09:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3070,13 +3112,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "W/\"wVC5aL0zN/wMlqZLxeRrJJnMOWRO/sRXz+Roonxhdjg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "5jdtno90ch"
         },
         {
           "Name": "label",
@@ -3084,12 +3126,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-wVC5aL0zN/wMlqZLxeRrJJnMOWRO/sRXz+Roonxhdjg="
         }
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
+      "Route": "favicon.5jdtno90ch.ico",
       "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/wwwroot/favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3099,7 +3141,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "15086"
         },
         {
           "Name": "Content-Type",
@@ -3107,11 +3149,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"wVC5aL0zN/wMlqZLxeRrJJnMOWRO/sRXz+Roonxhdjg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 09:32:49 GMT"
+          "Value": "Sun, 30 Mar 2025 06:09:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3121,7 +3163,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "5jdtno90ch"
         },
         {
           "Name": "label",
@@ -3129,13 +3171,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-wVC5aL0zN/wMlqZLxeRrJJnMOWRO/sRXz+Roonxhdjg="
         }
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico.gz",
-      "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/d7e6eepgom-61n19gt1b8.gz",
+      "Route": "favicon.5jdtno90ch.ico.gz",
+      "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/d7e6eepgom-5jdtno90ch.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3144,7 +3186,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "2894"
         },
         {
           "Name": "Content-Type",
@@ -3152,11 +3194,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
+          "Value": "\"O+JpX834UERp4pi+hH5yNykhjGkwvt0isFOsGZTSyWk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 09:32:49 GMT"
+          "Value": "Sun, 30 Mar 2025 06:09:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3174,7 +3216,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "5jdtno90ch"
         },
         {
           "Name": "label",
@@ -3182,18 +3224,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+          "Value": "sha256-O+JpX834UERp4pi+hH5yNykhjGkwvt0isFOsGZTSyWk="
         }
       ]
     },
     {
-      "Route": "favicon.ico",
-      "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/d7e6eepgom-61n19gt1b8.gz",
+      "Route": "favicon.90ekta8zov.svg",
+      "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/hkmawv5jsk-90ekta8zov.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000405022276"
+          "Quality": "0.000000672118"
         }
       ],
       "ResponseHeaders": [
@@ -3203,15 +3245,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "1487833"
         },
         {
           "Name": "ETag",
-          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
+          "Value": "\"6OK6spOX6fWCKvkH39CvHFJ5cQDyqOImaTbGJ8FGGjE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 09:32:49 GMT"
+          "Value": "Sun, 30 Mar 2025 06:09:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"F5cQiNdpmY/u1dUNJvf6F0mM/Il5SajQcHkqyfwvBog=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90ekta8zov"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F5cQiNdpmY/u1dUNJvf6F0mM/Il5SajQcHkqyfwvBog="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.90ekta8zov.svg",
+      "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/wwwroot/favicon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2011633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F5cQiNdpmY/u1dUNJvf6F0mM/Il5SajQcHkqyfwvBog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 06:09:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90ekta8zov"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F5cQiNdpmY/u1dUNJvf6F0mM/Il5SajQcHkqyfwvBog="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.90ekta8zov.svg.gz",
+      "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/hkmawv5jsk-90ekta8zov.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1487833"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6OK6spOX6fWCKvkH39CvHFJ5cQDyqOImaTbGJ8FGGjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 06:09:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90ekta8zov"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6OK6spOX6fWCKvkH39CvHFJ5cQDyqOImaTbGJ8FGGjE="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/d7e6eepgom-5jdtno90ch.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000345423143"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2894"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O+JpX834UERp4pi+hH5yNykhjGkwvt0isFOsGZTSyWk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 06:09:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3231,13 +3434,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "W/\"wVC5aL0zN/wMlqZLxeRrJJnMOWRO/sRXz+Roonxhdjg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-wVC5aL0zN/wMlqZLxeRrJJnMOWRO/sRXz+Roonxhdjg="
         }
       ]
     },
@@ -3252,7 +3455,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "15086"
         },
         {
           "Name": "Content-Type",
@@ -3260,11 +3463,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"wVC5aL0zN/wMlqZLxeRrJJnMOWRO/sRXz+Roonxhdjg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 09:32:49 GMT"
+          "Value": "Sun, 30 Mar 2025 06:09:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3274,13 +3477,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-wVC5aL0zN/wMlqZLxeRrJJnMOWRO/sRXz+Roonxhdjg="
         }
       ]
     },
     {
       "Route": "favicon.ico.gz",
-      "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/d7e6eepgom-61n19gt1b8.gz",
+      "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/d7e6eepgom-5jdtno90ch.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3289,7 +3492,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2468"
+          "Value": "2894"
         },
         {
           "Name": "Content-Type",
@@ -3297,11 +3500,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4=\""
+          "Value": "\"O+JpX834UERp4pi+hH5yNykhjGkwvt0isFOsGZTSyWk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Mar 2025 09:32:49 GMT"
+          "Value": "Sun, 30 Mar 2025 06:09:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3319,7 +3522,144 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+/824NtfTA0L7Mr42Fo+86YJP4R5cigdi9S7Fx5VVl4="
+          "Value": "sha256-O+JpX834UERp4pi+hH5yNykhjGkwvt0isFOsGZTSyWk="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.svg",
+      "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/hkmawv5jsk-90ekta8zov.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000000672118"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1487833"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6OK6spOX6fWCKvkH39CvHFJ5cQDyqOImaTbGJ8FGGjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 06:09:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"F5cQiNdpmY/u1dUNJvf6F0mM/Il5SajQcHkqyfwvBog=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F5cQiNdpmY/u1dUNJvf6F0mM/Il5SajQcHkqyfwvBog="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.svg",
+      "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/wwwroot/favicon.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2011633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F5cQiNdpmY/u1dUNJvf6F0mM/Il5SajQcHkqyfwvBog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 06:09:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F5cQiNdpmY/u1dUNJvf6F0mM/Il5SajQcHkqyfwvBog="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.svg.gz",
+      "AssetFile": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/hkmawv5jsk-90ekta8zov.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1487833"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6OK6spOX6fWCKvkH39CvHFJ5cQDyqOImaTbGJ8FGGjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 06:09:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6OK6spOX6fWCKvkH39CvHFJ5cQDyqOImaTbGJ8FGGjE="
         }
       ]
     },

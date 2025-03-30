@@ -19,7 +19,6 @@
 /Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/scopedcss/bundle/WebAppCoreProduct.styles.css
 /Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/scopedcss/projectbundle/WebAppCoreProduct.bundle.scp.css
 /Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/9z9nm9mh7u-b9sayid5wm.gz
-/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/d7e6eepgom-61n19gt1b8.gz
 /Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/4b8rokry0i-xtxxf3hu2r.gz
 /Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/hi749rokoj-bqjiyaj88i.gz
 /Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/etmqcwizpg-c2jlpeoesf.gz
@@ -96,3 +95,5 @@
 /Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/WebAppCoreProduct.pdb
 /Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/WebAppCoreProduct.genruntimeconfig.cache
 /Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/ref/WebAppCoreProduct.dll
+/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/d7e6eepgom-5jdtno90ch.gz
+/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/obj/Debug/net9.0/compressed/hkmawv5jsk-90ekta8zov.gz

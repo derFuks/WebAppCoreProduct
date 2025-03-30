@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/wwwroot/favicon.svg",
+      "PackagePath": "staticwebassets/favicon.svg"
+    },
+    {
       "Id": "/Users/isankaraev/Desktop/ASP.NET/WebAppCoreProduct/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
