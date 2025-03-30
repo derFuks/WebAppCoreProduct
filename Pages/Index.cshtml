@@ -1,10 +1,20 @@
 ﻿@page
-@model WebAppCoreProduct.Pages.IndexModel
+@model IndexModel
 @{
     ViewData["Title"] = "Главная страница";
 }
 
-@if (Model.IsCorrect)
+<form>
+    <label for="name">Название товара</label>
+    <input type="text" name="name" /><br />
+
+    <label for="price">Цена</label><br />
+    <input type="number" name="price"/><br /><br/>
+    <input type="submit" name="Получить скидку" /><br />
+</form>
+<h3>@Model.MessageResult</h3>
+
+@* @if (Model.IsCorrect)
 {
     <p>Name: <b>@Model.Product.Name</b></p>
     <p>Price: <b>@Model.Product.Price</b></p>
@@ -12,4 +22,4 @@
 else
 {
     <p>Переданы некорректные данные</p>
-}
+} *@
